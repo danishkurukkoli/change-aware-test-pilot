@@ -129,7 +129,7 @@ export const testCases: TestCase[] = [
     name: "User Profile State Management",
     components: ["state-management", "user-data", "user-interface"],
     lastRun: "2025-04-14T08:20:00Z",
-    lastResult: "skip",
+    lastResult: "skipped",
     executionTime: 2.7,
     priority: 0,
     coverage: [0.4, 0.2, 0.5, 0.3, 0.8]
